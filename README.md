@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0049-group-anagrams) |
+| [0268-missing-number](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0049-group-anagrams) |
+| [0268-missing-number](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -18,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0049-group-anagrams) |
+| [0268-missing-number](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0268-missing-number) |
 ## Stack
 |  |
 | ------- |
@@ -59,4 +62,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
