@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0268-missing-number) |
 ## Hash Table
@@ -88,4 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
