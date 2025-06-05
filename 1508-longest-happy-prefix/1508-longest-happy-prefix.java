@@ -21,7 +21,7 @@ class Solution {
                     i++ ;
                 }
                 else{
-                    prev = lps[prev] - 1 ;
+                    prev = lps[prev - 1] ;
                 }
             } 
             
