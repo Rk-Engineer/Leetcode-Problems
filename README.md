@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [1508-longest-happy-prefix](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/1508-longest-happy-prefix) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -105,9 +106,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1508-longest-happy-prefix](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/1508-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
 | [1508-longest-happy-prefix](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/1508-longest-happy-prefix) |
+## Two Pointers
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
