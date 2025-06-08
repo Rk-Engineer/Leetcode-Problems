@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0678-valid-parenthesis-string](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 ## Rolling Hash
