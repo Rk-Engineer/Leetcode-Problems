@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0503-next-greater-element-ii](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 ## Stack
 |  |
 | ------- |
@@ -138,4 +140,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0987-reveal-cards-in-increasing-order](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
+## Simulation
+|  |
+| ------- |
+| [0987-reveal-cards-in-increasing-order](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 <!---LeetCode Topics End-->
