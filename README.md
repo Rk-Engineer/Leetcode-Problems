@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0503-next-greater-element-ii](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Hash Table
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -144,8 +146,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Simulation
 |  |
 | ------- |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
