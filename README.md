@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0503-next-greater-element-ii](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 ## Stack
 |  |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -162,8 +166,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
