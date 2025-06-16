@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0931-maximum-frequency-stack](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0931-maximum-frequency-stack) |
 ## String
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0224-basic-calculator) |
 | [0503-next-greater-element-ii](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
+| [0931-maximum-frequency-stack](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0931-maximum-frequency-stack) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/2573-remove-nodes-from-linked-list) |
@@ -180,4 +182,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
+## Design
+|  |
+| ------- |
+| [0931-maximum-frequency-stack](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0931-maximum-frequency-stack) |
+## Ordered Set
+|  |
+| ------- |
+| [0931-maximum-frequency-stack](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0931-maximum-frequency-stack) |
 <!---LeetCode Topics End-->
