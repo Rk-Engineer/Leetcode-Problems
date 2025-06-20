@@ -86,11 +86,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/2573-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0224-basic-calculator) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/2573-remove-nodes-from-linked-list) |
 ## Monotonic Stack
