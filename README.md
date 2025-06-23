@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0503-next-greater-element-ii](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1582-design-browser-history](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/1582-design-browser-history) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Hash Table
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0931-maximum-frequency-stack](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0931-maximum-frequency-stack) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1582-design-browser-history](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/1582-design-browser-history) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/2573-remove-nodes-from-linked-list) |
 ## Tree
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0908-middle-of-the-linked-list) |
+| [1582-design-browser-history](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/1582-design-browser-history) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/2573-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
@@ -204,8 +207,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0931-maximum-frequency-stack](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0931-maximum-frequency-stack) |
+| [1582-design-browser-history](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/1582-design-browser-history) |
 ## Ordered Set
 |  |
 | ------- |
 | [0931-maximum-frequency-stack](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0931-maximum-frequency-stack) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/1582-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
