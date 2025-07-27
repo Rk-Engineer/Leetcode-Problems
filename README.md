@@ -238,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0046-permutations) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
