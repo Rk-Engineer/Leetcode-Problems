@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0224-basic-calculator](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0224-basic-calculator) |
+| [0394-decode-string](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1508-longest-happy-prefix](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/1508-longest-happy-prefix) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0224-basic-calculator) |
+| [0394-decode-string](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0394-decode-string) |
 | [0503-next-greater-element-ii](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0931-maximum-frequency-stack](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0931-maximum-frequency-stack) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0224-basic-calculator) |
+| [0394-decode-string](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0394-decode-string) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/2573-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
