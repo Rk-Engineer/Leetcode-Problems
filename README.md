@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0079-word-search) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0224-basic-calculator](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0394-decode-string) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0079-word-search) |
 ## Sliding Window
 |  |
 | ------- |
@@ -248,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/Rk-Engineer/Leetcode-Problems/tree/master/0079-word-search) |
 ## Database
 |  |
 | ------- |
